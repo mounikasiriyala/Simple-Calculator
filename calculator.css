@@ -1,0 +1,49 @@
+body{
+ border-radius:5px;
+ justify-content:center;
+ margin:5px;
+ display:flex;
+ font-family:Georgia,serif
+ height:100vh;
+}
+
+.table{
+ background-color:#ffff00;
+ border-radius:5px;
+ width:400px;
+}
+
+input[type="text"],input[type="button"]{
+ margin:1px;
+ border:1px solid black;
+ width:100%;
+ height:70px;
+ font-size:30px;
+ background-color:#8e7cc3
+
+}
+
+.row{
+ display:flex;
+}
+
+
+input[type="text"]{
+padding:o 10px;
+border-bottom:1px solid#ccc;
+box-sizing:border-box;
+border-radius:5px;
+}
+
+input[type="button"][value="AC"]{
+background-color:#ff0000;
+}
+
+
+0 comments on commit d39c44f
+Please sign in to comment.
+Footer
+© 2024 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
